@@ -8,7 +8,7 @@
 }
 .picture{
     position: absolute;
-    height: 69%;
+    height: 80%;
     width: 33%;
     top: auto;
     left: auto;
@@ -20,7 +20,7 @@
     margin: 0 auto;
     width: 30%;
     padding: 24px;
-    height: 10%;
+    height: 5%;
 }
 
 .input{
@@ -93,6 +93,12 @@ button{
 }
 .text2 img{
     width:20px;
+}
+
+.center3{
+    width: 10px;
+    height: 10px;
+    margin: 0% 30%;
 }
 
 
