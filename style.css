@@ -1,0 +1,99 @@
+#firstName{
+    display: flex;
+    flex-direction: column;
+}
+#lastName{
+    display: flex;
+    flex-direction: column;
+}
+.picture{
+    position: absolute;
+    height: 69%;
+    width: 33%;
+    top: auto;
+    left: auto;
+}
+.heading{
+    color: purple;
+}
+#Form{
+    margin: 0 auto;
+    width: 30%;
+    padding: 24px;
+    height: 10%;
+}
+
+.input{
+    padding: 18px 12px;
+    border-radius: 5px;
+    border: solid 1px;
+    width: 80%;
+    color: purple;
+}
+button{
+    background-color: purple;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 5px;
+    margin: 7px 0;
+    width: 85%;
+    font-size: 18px;
+}
+.center {
+    width: 25px;
+    height: 25px;
+    margin: 0% 40%;
+}
+
+.center2{
+    width: 25px;
+    height: 20px;
+    margin-left: 6%;
+    margin-top: 4%;
+
+}
+#text{
+    display: flex;
+    justify-items: left;
+    padding: 5px;
+    gap: 5%;
+
+}
+
+.btn {
+    background-color: white;
+    border: solid 1px;
+    color: black;
+    padding: 8px 14px;
+    font-size: 16px;
+
+}
+
+.text2{
+    display: flex;
+    justify-items: left;
+    padding: 5px;
+    gap: 5%;
+
+}
+
+.btn-google{
+    border: solid 1px;
+    padding: 10px;
+    height: 15px;
+}
+
+.googleBtn{
+    display: flex;
+    justify-items: left;
+    padding: 5px;
+    gap: 15px;
+    width: 30px;
+    height: 15px;
+}
+.text2 img{
+    width:20px;
+}
+
+
+
